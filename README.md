@@ -5,9 +5,9 @@
 Full-Stack | Web | Mobile | Game Developer | Instructor | Senior Software Engineer
 
 [![Github](https://img.shields.io/github/followers/acurtido?style=social)](https://github.com/acurtido)
-[![Github](https://img.shields.io/github/last-commit/acurtido/sp-challenge-6-todo-app)](https://github.com/acurtido/acurtido)
-[![Github](https://img.shields.io/github/stars/acurtido/sp-challenge-6-todo-app?style=social)](https://github.com/hectorbliss/hectorbliss)
-[![Github](https://img.shields.io/github/watchers/acurtido/sp-challenge-6-todo-app?style=social)](https://github.com/acurtido/acurtido)
+[![Github](https://img.shields.io/github/last-commit/acurtido/acurtido)](https://github.com/acurtido/acurtido)
+[![Github](https://img.shields.io/github/stars/acurtido/acurtido?style=social)](https://github.com/hectorbliss/hectorbliss)
+[![Github](https://img.shields.io/github/watchers/acurtido/acurtido?style=social)](https://github.com/acurtido/acurtido)
 
 
 ## About me
@@ -35,6 +35,6 @@ Full-Stack | Web | Mobile | Game Developer | Instructor | Senior Software Engine
 </a>
 <a href="https://eirete.com/">
   <img align="left" alt="Web" width="22px" src="
-https://img.icons8.com/fluent/48/000000/web.png"/>
+https://img.icons8.com/fluent/48/000000/internet.png"/>
 </a>
 

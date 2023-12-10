@@ -34,7 +34,6 @@ Full-Stack | Web | Mobile | Game Developer | Instructor | Senior Software Engine
   <img align="left" alt="Gmail" width="22px" src="https://img.icons8.com/fluent/48/000000/gmail.png"/>
 </a>
 <a href="https://eirete.com/">
-  <img align="left" alt="Web" width="22px" src="
-https://img.icons8.com/fluent/48/000000/internet.png"/>
+  <img align="left" alt="Web" width="22px" src="https://img.icons8.com/fluent/48/000000/internet.png"/>
 </a>
 

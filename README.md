@@ -6,7 +6,7 @@ Full-Stack | Web | Mobile | Game Developer | Instructor | Senior Software Engine
 
 [![Github](https://img.shields.io/github/followers/acurtido?style=social)](https://github.com/acurtido)
 [![Github](https://img.shields.io/github/last-commit/acurtido/acurtido)](https://github.com/acurtido/acurtido)
-[![Github](https://img.shields.io/github/stars/acurtido/acurtido?style=social)](https://github.com/hectorbliss/hectorbliss)
+[![Github](https://img.shields.io/github/stars/acurtido/acurtido?style=social)](https://github.com/acurtido/acurtido)
 [![Github](https://img.shields.io/github/watchers/acurtido/acurtido?style=social)](https://github.com/acurtido/acurtido)
 
 

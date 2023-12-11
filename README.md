@@ -18,7 +18,7 @@ Full-Stack | Web | Mobile | Game Developer | Instructor | Senior Software Engine
 
 - Senior Software Engineer at [CBA](http://www.cba.com.py/).
 
-- My interests include: React, Redux, Firebase, Docker, K8s, AWS, GCP, Testing, Svelte, Spring, Android, iOS, Rails, Django, NodeJS, Swift for web, MongoDB, PostgreSQL, GraphQL, Typescript, ShellScripting, State machines and many more...
+- My interests include: HTML, CSS, React, Redux, Python, Django, AWS, Unity, Phaser JS, C#, Oracle, PostgreSQL and many more...
 
 
 
